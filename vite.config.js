@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [tailwindcss(), react()],
-  base: '/sai_ram_plate_decorations/',
+  base: '/SR_PLATE_DECORATIONS/',
 })
